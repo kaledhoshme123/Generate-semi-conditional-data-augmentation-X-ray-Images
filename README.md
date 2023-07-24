@@ -38,3 +38,6 @@ A neural network is trained on a large number of images that have been generated
 | Accuracy, Precision, Recall    | Classification Report    | confusion_matrix |
 | :---: | :---: | :---: |
 | ![image](https://github.com/kaledhoshme123/Generate-semi-conditional-data-augmentation-X-ray-Images/assets/108609519/27b9b6ea-2f60-4502-81c7-c1385501bd59)| ![image](https://github.com/kaledhoshme123/Generate-semi-conditional-data-augmentation-X-ray-Images/assets/108609519/58bb27a3-ff11-435d-8d8c-8334875aae44)| ![image](https://github.com/kaledhoshme123/Generate-semi-conditional-data-augmentation-X-ray-Images/assets/108609519/3f20a727-952f-4123-a965-0fac5e907efb)|
+
+Dataset used: 
+https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
